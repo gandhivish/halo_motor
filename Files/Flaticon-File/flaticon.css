@@ -4,13 +4,15 @@
   	*/
 
     @font-face {
-      font-family: "Flaticon";
-      src: url("https://web-assets.cdn.dealersolutions.com.au/modular.multisite.dealer.solutions/wp-content/uploads/sites/1754/2023/07/07215900/Flaticon.eot");
-      src: url("https://web-assets.cdn.dealersolutions.com.au/modular.multisite.dealer.solutions/wp-content/uploads/sites/1754/2023/07/07215900/Flaticon.eot?#iefix") format("embedded-opentype"),
-           url("https://web-assets.cdn.dealersolutions.com.au/modular.multisite.dealer.solutions/wp-content/uploads/sites/1754/2023/07/07215952/Flaticon.ttf") format("truetype");
+      font-family: 'icomoon';
+      src:  url('https://cdn.jsdelivr.net/gh/gandhivish/halo_motor@main/Files/Flaticon-File/Flaticon.eot?vdw2jk');
+      src:  url('https://cdn.jsdelivr.net/gh/gandhivish/halo_motor@main/Files/Flaticon-File/icomoon.eot?vdw2jk#iefix') format('embedded-opentype'),
+          url('https://cdn.jsdelivr.net/gh/gandhivish/halo_motor@main/Files/Flaticon-File/icomoon.ttf?vdw2jk') format('truetype'),
+          url('https://cdn.jsdelivr.net/gh/gandhivish/halo_motor@main/Files/Flaticon-File/icomoon.woff?vdw2jk') format('woff'),
+          url('https://cdn.jsdelivr.net/gh/gandhivish/halo_motor@main/Files/Flaticon-File/icomoon.svg?vdw2jk#icomoon') format('svg');
       font-weight: normal;
       font-style: normal;
-    }
+  }
 
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
